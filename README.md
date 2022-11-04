@@ -1,4 +1,4 @@
-![csv maker logo](https://ibb.co/0DMgjtR)
+![](https://ibb.co/0DMgjtR)
 
 # **CSV TASK**
 This is a simple CLI app that takes in a .csv file and returns a JSON and a .csv file as outputs.
