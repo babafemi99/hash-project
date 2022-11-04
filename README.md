@@ -1,4 +1,4 @@
-![alt text](https://drive.google.com/file/d/1fT0hRhQiZGumpxVSXG6Rj4w5FoW7Oejl/view?usp=sharing)
+![csv maker logo](https://ibb.co/0DMgjtR)
 
 # **CSV TASK**
 This is a simple CLI app that takes in a .csv file and returns a JSON and a .csv file as outputs.
