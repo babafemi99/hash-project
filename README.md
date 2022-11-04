@@ -13,7 +13,7 @@ This is a simple CLI app that takes in a .csv file and returns a JSON and a .csv
 
 # USAGE
 
-* Make sure you have [golang](https://go.dev/dl/) installed on your system, check by typing `go --version` in your terminal
+* Make sure you have [golang](https://go.dev/dl/) installed on your system, check by typing `go version` in your terminal
 
 
 * Clone repository to local machine
