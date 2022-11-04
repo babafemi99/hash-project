@@ -1,4 +1,4 @@
-![](https://ibb.co/0DMgjtR)
+![alt text](https://github.com/babafemi99/hash-project/blob/MAIN/CSV_TASK.png)
 
 # **CSV TASK**
 This is a simple CLI app that takes in a .csv file and returns a JSON and a .csv file as outputs.
